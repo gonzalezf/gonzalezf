@@ -9,6 +9,6 @@ As a research assistant, I worked on different projects related to Natural Langu
 - 🔭 I’m currently finishing my MSc. Computer Science thesis. 
 - 👯 I’m looking to collaborate on Multimodal NLP research projects. 
 - 😍 My hobbies are drawing, painting, and biking.
-- 💬 If you are in Vancouver, don't hesitate to reach me. I have plenty of recommendations where to eat/have fun!
+- 💬 If you are in Vancouver, don't hesitate to reach me. I have plenty of recommendations on where to eat/have fun!
 - 📫 How to reach me: Message me on [Linkedin](https://www.linkedin.com/in/felipegonzalezpizarro/)
 - 😄 Pronouns: He/Him/His
